@@ -1,0 +1,11 @@
+7.2	88 km N of Yelizovo, Russia	Sat, 30 Jan 2016
+6.1	94km SSE of Taron, Papua New Guinea  Tue, 26 Jan 2016
+6.3	50km NNE of Al Hoceima, Morocco	     Mon, 25 Jan 2016
+7.1	86km E of Old Iliamna, Alaska	Sun, 24 Jan 2016 
+6.6	215km SW of Tomatlan, Mexico	Thu, 21 Jan 2016
+6.7	52km SE of Shizunai, Japan	Thu, 14 Jan 2016
+6.1	12km WNW of Charagua, Bolivia	Thu, 14 Jan 2016
+6.2	74km NW of Rumoi, Japan		Mon, 11 Jan 2016
+6.5	227km SE of Sarangani, Philippines Mon, 11 Jan 2016
+6	Pacific-Antarctic Ridge		Tue, 05 Jan 2016
+	
